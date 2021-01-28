@@ -12,6 +12,6 @@
 4. Follow the research on brain plasticity.
 5. Replace the word “failing” with the word “learning.”
 
-![growth](fix.png)
+![growth](./images/fix.png)
 
 [to read more about growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
