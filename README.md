@@ -15,6 +15,8 @@
 5. [read04](https://maisdmoor.github.io/reading-notes/read04)
 6. [growth](https://maisdmoor.github.io/reading-notes/growth)
 7. [loop01](https://maisdmoor.github.io/reading-notes/loop01)
+8. [read06a](https://maisdmoor.github.io/reading-notes/read06a)
+9. [read06b](https://maisdmoor.github.io/reading-notes/read06b)
 
 
 
